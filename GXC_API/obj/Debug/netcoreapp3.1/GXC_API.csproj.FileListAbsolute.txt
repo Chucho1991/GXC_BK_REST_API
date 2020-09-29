@@ -143,7 +143,6 @@ C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\
 C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\obj\Debug\netcoreapp3.1\GXC_API.csprojAssemblyReference.cache
 C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\obj\Debug\netcoreapp3.1\GXC_API.AssemblyInfoInputs.cache
 C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\obj\Debug\netcoreapp3.1\GXC_API.AssemblyInfo.cs
 C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\obj\Debug\netcoreapp3.1\GXC_API.csproj.CoreCompileInputs.cache
@@ -155,3 +154,4 @@ C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\obj\Debug\netcoreapp3.1\staticwebassets\G
 C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\obj\Debug\netcoreapp3.1\GXC_API.dll
 C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\obj\Debug\netcoreapp3.1\GXC_API.pdb
 C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\obj\Debug\netcoreapp3.1\GXC_API.genruntimeconfig.cache
+C:\GXC\PRUEBA\API REST\GXC_API\GXC_API\obj\Debug\netcoreapp3.1\GXC_API.csprojAssemblyReference.cache
